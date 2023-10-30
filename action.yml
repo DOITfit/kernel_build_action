@@ -7,7 +7,7 @@ branding:
 
 inputs:
   kernel-url:
-    description: 'Kernel Source Url'
+    description: 'https://github.com/DOITfit/xiaomi_kernel_sm8250'
     required: true
   vendor-url:
     description: 'Kernel Vendor Source Url'
